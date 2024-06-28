@@ -1,2 +1,2 @@
-# MovieGuideApp
-Movie Guide App to provide information about movie using JavaScript and Omdb API
+# MovieOverview
+A guide to provide information about various movies using JavaScript and Omdb API
